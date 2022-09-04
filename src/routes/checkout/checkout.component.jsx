@@ -27,7 +27,7 @@ const Checkout = () => {
           <span>Видалити</span>
         </div>
       </div>
-      <h1>I am the checkout page</h1>
+      <h1>Кошик</h1>
       {cartItems.map((cartItem) => (
         <CheckoutItem key={cartItem.id} cartItem={cartItem} />
       ))}

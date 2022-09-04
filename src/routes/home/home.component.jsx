@@ -12,7 +12,7 @@ const Home = () => {
       id: 2,
       title: 'Улуни',
       imageUrl:
-        'https://teahouse.ua/wp-content/uploads/2021/05/klubnichnyj-ulun-208-b81.jpg',
+        'https://factum-info.net/images/1_Fakty/4_Eda/70_2_oolong-1.jpg',
     },
     {
       id: 3,
